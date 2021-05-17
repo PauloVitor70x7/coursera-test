@@ -6,3 +6,4 @@
  3. she had been married before
  4. her first husband had died 
  5. and now she was married again
+ 6. they lived ona remote farm in the west of england
